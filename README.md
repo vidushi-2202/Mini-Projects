@@ -4,5 +4,6 @@ This repository contains a collection of small web development projects built us
 
 ## Projects
 - 🎮 Tic Tac Toe → /tic-tac-toe
+- - 🎮 Rock Paper Scissors → /rock-paper-scissors
 
 More projects coming soon...
